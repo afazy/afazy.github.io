@@ -24,6 +24,35 @@ header:
       # @end locale config
     url: /archive.html
 
+ - titles:
+      # @start locale config
+      en      : &EN       Teaching
+      url: /teaching.html
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      
+
+ - titles:
+      # @start locale config
+      en      : &EN       Research
+      url: /research.html
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      
+
+ - titles:
+      # @start locale config
+      en      : &EN       Resources
+      url: /resources.html
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      
   - titles:
       # @start locale config
       en      : &EN       About
